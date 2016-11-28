@@ -1,0 +1,36 @@
+Introduction
+============
+It's undeniably obvious that machine learning is the leading field that has achieved the best advancements of Artificial intelligence in the recent years. These advancements have came to light after enormous datasets have started becoming available and the computing power reached a level that allowed it to handle such huge amounts of data. I have since been interested and hence to have the passion to excel in artificial intelligence and especially machine learning as a sub-field with a dream that its name could be literally achieved with intelligence and learning that are on par with the human level.
+
+
+Education
+=========
+During my middle years of undergraduate school of medicine, I started exploring the field of computer science as I’ve enjoyed the challenges that it puts me in. I started taking online courses by myself to learn the programming, algorithms and mathematics. Actually, I still remember the online courses that I took from MIT staff as professors John Guttag, Eric Grimson, Erik Demaine, Srinivas Devadas and others, and I consider them my teachers. At the end of my college I started doing some freelance projects for a couple of startups including web and iOS applications (some are still available on the Appstore). During these times I was used to participate in online programming competitions too including TopCoder, CodeJam, etc.
+After finishing my bachelor degree (MBChB) I looked for how to shift my career officially into computer science. I liked the idea of how to solve problems that haven't been solved before. I joined the Information Technology Institute (ITI) to get a 9 months diploma in programming Java Web and Enterprise applications. I finished the first of my class and I didn't just learn deeply about software engineering concepts to be a better engineer but during this period I also got introduced to machine learning in ITI and at the same time I was able to finish the Andrew Ng course on Coursera about machine learning. After that I got accepted to a master's program in Istanbul Sehir University.
+In my master's degree program, I joined machine learning and data science courses mostly as these were the fields that I liked and wanted to excel in the most. I mixed that with bioinformatics courses as applying these data science and machine learning knowledge gives a great benefit to humanity in solving intractable diseases and problems.
+
+Research Experience
+===================
+In my master's degree I have so far finished all my courses with an A grade. Also since I came here I have started working as a research assistant under the supervision of Professor Ali Cakmak in the Bioinformatics and Databases Lab (http://biodb.sehir.edu.tr/) doing research in the Metabolomics Data Analysis project.
+
+### Metabolomics Data Analysis
+Our main goal of this project is to develop a personalized medicine technique to diagnose diseases earlier using a model that wouldn't just do this but also provide better understanding of how these diseases develop and help care takers to take more personalized decisions for treatment. Our currently used techniques to develop this model include some machine learning models that help in extracting significant features considering metabolites and reactions that contribute the most to a special case/disease. We are using Recon2, a reconstructed metabolic network, that provides the main model for detecting metabolic perturbations and the reactions involved in these changes.
+
+I have done some short term research projects as a part of the classes that I have took so far in my master's degree:
+
+- Predicting negative keywords for online search advertisements. I reviewed more than 10 research papers in that topic and improved on an already existing technique to be more efficient and wrote a paper on it (although not published).
+
+- Taxonomy classification of organisms based on DNA barcode using LSTM neural networks. After reviewing the existing techniques already present (Random Forests, logistic regression and Convolutional neural networks) I used Torch to implement an LSTM neural network to do this classification but the existing techniques achieved better results than the LSTM which might be due to the lacking of enough data to train the network.
+
+- Genetic factors that correlates with glioma aggression within G-CIMP cancer subtypes. We used statistical methods, PCA and logistic regression for predicting these genetic factors. Professor Mehmet Baysan, under whose supervision I did this project has praised my techniques and effort that I put in this project.
+
+
+Teaching Experience
+===================
+These so far weren't the only drivers to pursue a PhD position but also me valuing the career of being a professor who teaches future generations and explores uncharted territories of science. I've always loved teaching and I think I was good at it. I taught some algorithms workshops to some students in ITI and in Istanbul Sehir University I was teaching Java (our school teaches in Python) and some machine learning concepts to some undergrad students. All of these were under the name of students' activities as I was a research assistant and didn't have teaching duties. Students mostly gave me surprising feedback that I was even teaching better than some professors and that I would be some day be a good professor/teacher.
+
+
+Concluding Remarks
+==================
+I have always tried to improve my knowledge about Artificial intelligence since I've got interested into it and became determined to excel in such young and auspicious field. On the practical side I've found that my passion and my reasoning for what's going to be the next big thing in AI advancement directed me to focus on the branch of machine learning. Hence, I hope that my educational qualifications along with my experiences that I have tried my best to further develop in the past few years could land me a PhD student position in MIT to pursue computer science with an emphasis on machine learning and its applications in different fields especially in healthcare.
+I have read some of the publications from professor Roger Mark, professor Thomas Heldt and professor Una-May O'Reilly and I hope I will have the opportunity to work with either of them.
